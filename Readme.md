@@ -12,3 +12,5 @@ Projeto desenvolvido utilizando
 Foi utilizado um projeto separado para a integração do cálculo de kilometragem por simulação 
 
 Link do Projeto: <https://github.com/lfrnavarro/simuladorDistanciaKm>
+
+Eu explicando o projeto e mostrando seu funcionamento: <https://www.youtube.com/watch?v=KIF9jBablnY>
