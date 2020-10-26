@@ -1,0 +1,3 @@
+simuladorDistanciaKm:
+  host: 'http://localhost:8081'
+  obterDistancia: '/obterDistancia'
